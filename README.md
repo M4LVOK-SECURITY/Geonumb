@@ -3,7 +3,7 @@
 
 Hola sean bienvendos a esta interesante herramienta la cual nos permitira descubrir informacion relacionada a cualquier numero telefonico.
 
-Quiero aclarar que el codigo original no es mio por lo cual  externo mi mas sincero agradecimiento y respeto a NePtYx.
+Quiero aclarar que el codigo original no es mio creditos  a NePtYx.
 
 La herramienta fue fragmentada de MgTols con la finalidad de facilitar su acceso por cuestiones de almacenamiento, velocidad de descarga e instalacion...
 
@@ -33,11 +33,12 @@ a80369b12fb2c39acf4f36563789a4cc
 bash Geonumb.sh
 
 
-Posteriormente agregamos el numero acompañado de su areay listo.
+Posteriormente agregamos el numero acompañado de + y su codigo de pais y listo.
+
 
 Ejemplo: +5243x10x6x0x
 
 
-para finalizar solo ejecute ctrl+c
+para finalizar el repositorio solo ejecute ctrl+c
 
 
