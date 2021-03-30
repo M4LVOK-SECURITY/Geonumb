@@ -38,6 +38,6 @@ Posteriormente agregamos el numero acompañado de su areay listo.
 Ejemplo: +5243x10x6x0x
 
 
-para finalizar solo ejecuute ctrl+c
+para finalizar solo ejecute ctrl+c
 
 
